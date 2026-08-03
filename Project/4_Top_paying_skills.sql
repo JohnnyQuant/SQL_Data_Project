@@ -11,8 +11,8 @@
 -- Identifies the top 5 most demanded skills for Data Analyst job postings
 -- Calculates the average salary for job postings by individual skill 
 SELECT
-  skills_dim.skills AS skill, 
-  ROUND(AVG(job_postings_fact.salary_year_avg),2) AS avg_salary
+  skills_dim.skills AS skill
+  , ROUND(AVG(job_postings_fact.salary_year_avg),2) AS avg_salary
 FROM
   job_postings_fact
 	INNER JOIN
@@ -26,4 +26,5 @@ WHERE
 GROUP BY
   skills_dim.skills 
 ORDER BY
-  avg_salary DESC; 
+  avg_salary DESC
+LIMIT 10;
