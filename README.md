@@ -140,6 +140,8 @@ ORDER BY
 
 ![Top_Paying_Data_Analyst_Jobs](images/Top_10_High_Demand_Skills.png)
 
+*Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; Gemini generated this graph from my SQL query results*
+
 ## 3. In-Demand Skills for Data Analysts
 
 This query helped identify the skills most frequently requested in job postings, directing focus to areas with highest demand.
