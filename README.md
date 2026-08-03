@@ -138,6 +138,8 @@ ORDER BY
 
 - Collaboration tools (Jira, Confluence, GitLab) highlight that senior Data Analysts must work closely with technical and management teams.
 
+![Top_Paying_Data_Analyst_Jobs](images\Top_10_High_Demand_Skills.png)
+
 ## 3. In-Demand Skills for Data Analysts
 
 This query helped identify the skills most frequently requested in job postings, directing focus to areas with highest demand.
