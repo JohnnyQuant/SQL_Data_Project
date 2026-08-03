@@ -78,7 +78,7 @@ LIMIT 10;
 
 - Stable demand: Job postings are spread throughout the year, proving that Data Analyst is a consistently needed role.
 
-![Top_Paying_Data_Analyst_Jobs](images\Top_Paying_Data_Analyst_Jobs.png)
+![Top_Paying_Data_Analyst_Jobs](images/Top_Paying_Data_Analyst_Jobs.png)
 
 _Bar graph visualizing the salary for the top 10 salaries for data analysts; Gemini generated this graph from my SQL query results_
 
@@ -138,7 +138,7 @@ ORDER BY
 
 - Collaboration tools (Jira, Confluence, GitLab) highlight that senior Data Analysts must work closely with technical and management teams.
 
-![Top_Paying_Data_Analyst_Jobs](images\Top_10_High_Demand_Skills.png)
+![Top_Paying_Data_Analyst_Jobs](images/Top_10_High_Demand_Skills.png)
 
 ## 3. In-Demand Skills for Data Analysts
 
