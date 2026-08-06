@@ -1,6 +1,6 @@
 # 📌 Introduction
 
-📊 This project is a SQL-based data analysis exercise intructed by Luke Barousse to explore, query, and generate insights from structured dataset of data job market. The goal is to practice SQL skills, including data cleaning, transformation, and analytical querying, while presenting 💰 top-paying jobs,🔥in-demand skills,📈 where high demand meets high salary in data analytics in a clear and organized manner.
+📊 This project is a SQL-based data analysis exercise intructed by **Luke Barousse** to explore, query, and generate insights from structured dataset of data job market. The goal is to practice SQL skills, including data cleaning, transformation, and analytical querying, while presenting 💰 top-paying jobs,🔥in-demand skills,📈 where high demand meets high salary in data analytics in a clear and organized manner.
 
 🔍 SQL queries? Check them out here: [Project](Project)
 
